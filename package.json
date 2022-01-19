@@ -1,6 +1,6 @@
 {
   "name": "@zcorefinance/react-native-hamburger",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Hamburger menu for react-native!",
   "main": "index.js",
   "scripts": {
