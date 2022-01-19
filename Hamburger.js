@@ -57,7 +57,7 @@ export default class Hamburger extends Component {
     }
 
     cross() {
-        if (!this.state.active) {
+        if (this.state.active) {
             Animated.spring(this.topBar, {
                 toValue: .9
             }).start();
