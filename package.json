@@ -1,6 +1,6 @@
 {
-  "name": "react-native-hamburger",
-  "version": "0.0.2",
+  "name": "@zcorefinance/react-native-hamburger",
+  "version": "0.0.3",
   "description": "Hamburger menu for react-native!",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sankhadeeproy007/react-native-hamburger.git"
+    "url": "git+ssh://git@github.com/mosqueiro/react-native-hamburger.git"
   },
   "keywords": [
     "react-native",
@@ -17,7 +17,7 @@
   "author": "Sankhadeep Roy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sankhadeeproy007/react-native-hamburger/issues"
+    "url": "https://github.com/mosqueiro/react-native-hamburger/issues"
   },
-  "homepage": "https://github.com/sankhadeeproy007/react-native-hamburger#readme"
+  "homepage": "https://github.com/mosqueiro/react-native-hamburger#readme"
 }
